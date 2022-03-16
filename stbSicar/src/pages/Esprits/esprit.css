@@ -1,0 +1,30 @@
+.section1 img {
+        width: 56%;
+    margin: 0 auto;
+    display: block;
+}
+.bloc-es{
+        top: 0;
+    z-index: 1;
+    position: absolute;
+    width: 50%;
+    display: block;
+}
+.title-es {
+        font-size: 20px;
+    text-align: center;
+    margin: 13px;
+    margin-left: 145px;
+    color: #fff;
+    font-family: monospace;
+}
+
+
+.h3--es{
+        font-size: 20px;
+    text-align: center;
+    margin: 13px;
+    margin-left: 145px;
+    color: #fff;
+    font-family: monospace;
+}

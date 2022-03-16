@@ -1,0 +1,30 @@
+.Pol-in {
+  padding: 50px;
+  display: block;
+  margin: 50px;
+}
+.desc-- {
+  line-height: 1.6em;
+  padding: 45px;
+  width: 42%;
+}
+.img-desc {
+  justify-content: center;
+  display: flex;
+}
+/* .img-desc:hover {
+  transform: scale(1.07);
+}
+ */
+ .Par-in {
+  padding: 50px;
+  display: block;
+  margin: 50px;
+}
+.desc- {
+  line-height: 1.6em;
+  padding: 45px;
+  width: 42%;
+}
+
+

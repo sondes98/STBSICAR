@@ -1,0 +1,61 @@
+.nos-fonds {
+  padding: 0 50px;
+}
+
+/************SECTION 1*********************/
+.investiseurs .section-title {
+  margin-top: 25px;
+  text-align: center;
+  margin-bottom: 40px;
+}
+.investiseurs .section-title h3 {
+  margin-bottom: 20px;
+}
+.investiseurs .section-title.white h3,
+.investiseurs .section-title.white p {
+  color: #fff;
+}
+.investiseurs span.alternate {
+  color: #216dca;
+  font-style: italic;
+  font-weight: 400;
+}
+
+/**/
+.investiseurs .row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  /* float: left; */
+  /* width: 400px; */
+  /* padding: 5px; */
+}
+
+.investiseurs .row img {
+  width: 200px;
+  /* margin: auto; */
+  background-color: #fff;
+  padding: 26px;
+  border-radius: 5px;
+}
+
+.investiseurs .row img:hover {
+  -webkit-box-shadow: 5px 5px 0px 0px #84ace4ad, 10px 10px 0px 0px #d6e4f4,
+    27px 7px 15px -5px rgba(0, 0, 0, 0);
+  box-shadow: 5px 5px 0px 0px #84ace4ad, 10px 10px 0px 0px #d6e4f4,
+    27px 7px 15px -5px rgba(0, 0, 0, 0);
+  transition: all 0.5s;
+}
+
+@media (max-width: 800px) {
+  .investiseurs .row {
+    flex-direction: column;
+  }
+}
+
+/************SECTION 3*********************/
+.NF-section-3 {
+  margin: auto;
+}
